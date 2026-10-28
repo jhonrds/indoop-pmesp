@@ -1,0 +1,11 @@
+{
+  "name": "INDOP PMESP",
+  "short_name": "INDOP PMESP",
+  "description": "Registro diário de indicadores operacionais",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#174d35",
+  "icons": []
+}
